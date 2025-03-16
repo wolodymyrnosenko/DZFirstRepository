@@ -3,3 +3,9 @@
 bin/
 debug/
 
+*.dll
+*.xml
+
+obj/
+x86/
+.vs/
